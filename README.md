@@ -1,2 +1,1 @@
-# Responsive-Portfolio
-Same as bootstrap portfolio, but responsive properties
+responsive portfolio assignment
