@@ -257,7 +257,7 @@ body {
 @media screen and (max-width: 640px) {
       /*Used on all pages*/
       #logo {
-            width: 100%;
+            width: 100%; /**/
       }
       nav {
             width: 100%;
